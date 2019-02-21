@@ -125,6 +125,8 @@ set notimeout ttimeout ttimeoutlen=200
 " Use <F11> to toggle between 'paste' and 'nopaste'
 set pastetoggle=<F11>
 
+" Make it easier to see blue text
+set bg=dark
 
 "------------------------------------------------------------
 " Indentation options {{{1
